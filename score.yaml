@@ -20,6 +20,8 @@ resources:
     type: dns
   cachy:
     type: redis
+  flashy:
+    type: redis
   route:
     type: route
     params:
